@@ -3,7 +3,7 @@ package sorterClasses;
 public class BubbleSortSorter<E> extends AbstractMaxValueSorter<E> {
 
 	public BubbleSortSorter() {
-		super("   Bubble Sort");
+		super("Bubble Sort");
 	}
 
 	@Override
